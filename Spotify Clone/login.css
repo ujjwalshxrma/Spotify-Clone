@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    overflow: scroll;
+    /* background: linear-gradient(90deg, rgba(14,48,6,1) 0%, rgba(38,241,23,1) 99%); */
+}
+
+header{
+    margin-top: 3%;
+ background-color: black;
+   text-align: center;
+}
+hr{
+    width:100%;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    margin-top: 2%;
+}
+#form{
+    padding: 5% 10%;
+
+}
+#form input{
+    width: 400px;
+    margin-left: 30%;
+    height: 50px;
+}
+.form-check{
+    position: relative;
+    top: -70px;
+    left: 458px;
+}

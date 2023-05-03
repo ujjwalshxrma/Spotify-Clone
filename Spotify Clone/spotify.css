@@ -1,0 +1,176 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)) , url("https://cdn.windowsreport.com/wp-content/uploads/2022/06/Spotify-browser-extension-1.png")
+}
+nav ul{
+    display: flex;
+    font-family:'Times New Roman', Times, serif ;
+    align-items: center;
+    list-style-type:none;
+    height: 65px;
+    background-color: black;
+    color: aliceblue;
+}
+
+nav ul li{
+    padding: 0 12px;
+}
+form{
+     padding-left: 750px;
+
+}
+p.for{
+    font-size: 4rem;
+    /* text-aline: center; */
+    font-weight: bolder;
+    color: white;
+}
+span{
+    color: rgb(31, 51, 87);
+    font-weight: bolder;
+    font-size: 4rem;
+}
+#img{
+    /* height: 100px ; */
+    width: 200px;
+}
+p{
+    /* text-aline: center; */
+    font-size: 1rem;
+    color: whitesmoke;
+}
+
+a.nav-link{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.66rem;
+    padding: 20px;
+}
+
+a.nav-link:hover{
+    color: green;
+    transition: 2.5 all ease ease-out;
+}
+
+.headcontent{
+     font-size: 40px;
+     position: relative;
+     margin: 30px;
+     top: 150px;
+     color: white;
+     text-transform: uppercase;
+     font-weight: bolder;
+
+}
+
+.content{
+    margin: 20px;
+    position: relative;
+    top: 60px;
+    padding: 5% 10%;
+}
+.form{
+     width: 400px;
+     padding-top: 2%;
+     padding-bottom: 7%;
+     margin-left: 350px;
+}
+
+#premium{
+    padding-left: 8%;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    margin-top: 0%;
+}
+p.para{
+    color:black;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+p.free{
+    color: black;
+    font-weight: 200;
+}
+
+i:hover{
+    color: blue;
+}
+
+.icon:hover{
+    padding-top: 5%;
+}
+#plans{
+    padding-top: 5%;
+}
+.box:hover{
+     transition: 0.5 all ease-out;
+}
+.card:hover{
+    transform: scale(1);
+}
+p.plans{
+    color: black;
+}
+ul li{
+    font-size: 1.5rem;
+}
+.heading{
+    text-align: center;
+}
+p.pick{
+    font-weight: bold;
+    color: black;
+    font-size: 2.5rem;
+}
+#music{
+    background-color: black;
+    padding: 5% 10%;
+}
+p.music{
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bolder;
+    text-align:center;
+}
+#support{
+    background-color: black;
+    padding: 5% 10%;
+}
+.size{
+    font-size: 2px;
+}
+footer{
+    position: relative;
+    top: 59px;
+    left:2px;
+
+}
+.footer:hover{
+           color: green;
+}
+ul.about li:hover{
+color: green;
+cursor: pointer;
+}
+.d-flex div:hover{
+cursor: pointer;
+
+}
+.india:hover{
+    color: green;
+}
+.navbar-brand img{
+    padding-left: 37px;
+    padding-bottom: 11px;
+}
+.p-3 img{
+    width: 60px;
+}
+.p-2 img{
+    width: 20px;
+}
